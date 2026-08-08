@@ -8,7 +8,7 @@ Fortify is a client-side password strength analyzer and generator. Every check r
   <img
     src="./screenshot.png"
     alt="Fortify Password Analyzer Preview"
-    width="800"
+    width="700"
   />
 </p>
 
